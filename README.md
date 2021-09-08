@@ -11,3 +11,7 @@ https://codesandbox.io/s/useform-hook-yup-ti6ut?file=/src/components/BasicForm.j
 
 # 4. using formik
 https://codesandbox.io/s/react-formik-scratch-n95gf
+### 4.1 with yup
+https://codesandbox.io/s/react-formik--yup-mrt74?file=/src/components/YoutubeForm.jsx
+### 4.2 formik components
+https://codesandbox.io/s/react-formik-components-41gi8
